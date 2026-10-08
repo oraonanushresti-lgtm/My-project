@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+{
+    printf("Hello, World!\n");
+        int name, age, country;
+        printf("Anushresti oraon");
+        scanf("%d",& name);
+        printf("20");
+        scanf("%d",& age );
+        printf("india");
+        scanf("%d \n",country);
+        return 0;
+}
